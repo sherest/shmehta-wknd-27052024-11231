@@ -1,6 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/edsdemo/Shared%20Documents/lpbeds/shmehta/shmehta-test-n-1111/website21/en
-  /: https://adobe.sharepoint.com/sites/edsdemo/Shared%20Documents/lpbeds/shmehta/shmehta-test-n-1111/website21/fr
+  /: https://adobe.sharepoint.com/sites/edsdemo/Shared%20Documents/lpbeds/shmehta/shmehta-test-n-1111/website21
 
 folders:
   /products/: /products/default
